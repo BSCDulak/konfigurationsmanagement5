@@ -1,0 +1,3 @@
+[submodule "vendor/test-module"]
+	path = vendor/test-module
+	url = git@github.com:BSCDulak/test-module.git
